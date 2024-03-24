@@ -593,6 +593,11 @@ ol {
   display: inline-block; 
 }
 
+.footer-form{
+  margin-left: 80px;
+}
+
+
 .footer-form-subtitle {
   margin-bottom: 16px;
   font-weight: 500;
