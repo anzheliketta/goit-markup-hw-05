@@ -604,6 +604,7 @@ ol {
 
 .footer-bottom {
   display: flex;
+  gap: 24px;
 }
 
 .footer-input {
